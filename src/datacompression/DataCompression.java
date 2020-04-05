@@ -9,7 +9,7 @@ import java.util.*;
  *
  * @author Mnassar Alyami
  */
-//Implementation as described in the paper (pages 2-5)
+//  Implementation as described in the paper (pages 2-5)
 
 public class DataCompression {
 
